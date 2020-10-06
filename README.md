@@ -4,6 +4,8 @@ In this repository you can find the jupyter notebooks used to take part at the c
 ***
 The notebooks use tensorflow 2.0 and keras to create predictive models.
 ***
+Remember that the notebooks have not the goal to be runned as they are here, but they were runned for the competitions and **partially** re-runned for producing this repository. If you want to run them, download the datasets and modify the code in order to set the right paths.
+***
 ## Competition 1 - Image classification [[kaggle competition](https://www.kaggle.com/c/ann-and-dl-image-classification)][[dataset - 91 MB](https://www.kaggle.com/c/17346/download-all)]
 - Image classification of 20 different classes (e.g. owls, wine-bottles, airplanes, calculators...).  
 - Evaluation trhough MultiClass Accuracy.  
